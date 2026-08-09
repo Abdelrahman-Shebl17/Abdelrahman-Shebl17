@@ -35,6 +35,7 @@ Currently, I'm focused on growing as a **Product Designer** and building stronge
 ## Selected Work
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -47,8 +48,6 @@ Currently, I'm focused on growing as a **Product Designer** and building stronge
 
 A travel-planning app that brings itineraries, budgets, saved places, and trip details into one organized flow.
 
-[**View Case Study →**](https://www.behance.net/gallery/243708657/TRIPIO-Case-study-travel-app)
-
 </td>
 
 <td width="50%" valign="top">
@@ -60,6 +59,20 @@ A travel-planning app that brings itineraries, budgets, saved places, and trip d
 ### 🩺 DiaCare
 
 A diabetes monitoring product that helps patients track daily health data while giving doctors a focused view of the signals that matter.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="bottom">
+
+[**View Case Study →**](https://www.behance.net/gallery/243708657/TRIPIO-Case-study-travel-app)
+
+</td>
+
+<td width="50%" valign="bottom">
 
 [**View Case Study →**](https://www.behance.net/gallery/244584239/DiaCare-Smart-Diabetes-Monitoring-Case-Study)
 
@@ -79,8 +92,6 @@ A diabetes monitoring product that helps patients track daily health data while 
 
 A mobile learning platform for discovering crafts, following step-by-step lessons, joining workshops, and earning certificates.
 
-[**View Case Study →**](https://www.behance.net/gallery/247312857/-UXUI)
-
 </td>
 
 <td width="50%" valign="top">
@@ -93,11 +104,26 @@ A mobile learning platform for discovering crafts, following step-by-step lesson
 
 A real-estate landing page designed to make listings easier to scan, build trust, and guide users toward enquiry.
 
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="bottom">
+
+[**View Case Study →**](https://www.behance.net/gallery/247312857/-UXUI)
+
+</td>
+
+<td width="50%" valign="bottom">
+
 [**View Case Study →**](https://www.behance.net/gallery/245559087/Real-Estate-Landing-page-HAVENIX)
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -105,6 +131,7 @@ A real-estate landing page designed to make listings easier to scan, build trust
 ## Skills & Expertise
 
 <table width="100%">
+
 <tr>
 
 <td width="50%" valign="top">
@@ -121,7 +148,7 @@ A real-estate landing page designed to make listings easier to scan, build trust
 
 <td width="50%" valign="top">
 
-### ✦ Interaction & Visual
+### 🎨 Interaction & Visual
 
 ![Interaction Design](https://img.shields.io/badge/INTERACTION_DESIGN-171717?style=for-the-badge&color=8E7135)
 ![UI Design](https://img.shields.io/badge/UI_DESIGN-171717?style=for-the-badge&color=8E7135)
@@ -149,17 +176,18 @@ A real-estate landing page designed to make listings easier to scan, build trust
 
 <td width="50%" valign="top">
 
-### 🛠 Design Tools
+### 🛠️ Design Tools
 
 ![Figma](https://img.shields.io/badge/FIGMA-171717?style=for-the-badge&logo=figma&logoColor=C9A24D)
 ![FigJam](https://img.shields.io/badge/FIGJAM-171717?style=for-the-badge&logo=figma&logoColor=C9A24D)
 ![Framer](https://img.shields.io/badge/FRAMER-171717?style=for-the-badge&logo=framer&logoColor=C9A24D)
-![Photoshop](https://img.shields.io/badge/PHOTOSHOP-171717?style=for-the-badge&logo=adobephotoshop&logoColor=C9A24D)
-![Illustrator](https://img.shields.io/badge/ILLUSTRATOR-171717?style=for-the-badge&logo=adobeillustrator&logoColor=C9A24D)
+![Photoshop](https://img.shields.io/badge/Ps-PHOTOSHOP-171717?style=for-the-badge&labelColor=8E7135)
+![Illustrator](https://img.shields.io/badge/Ai-ILLUSTRATOR-171717?style=for-the-badge&labelColor=8E7135)
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -167,22 +195,10 @@ A real-estate landing page designed to make listings easier to scan, build trust
 ## Technical Understanding
 
 ![HTML5](https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=C9A24D)
-![CSS3](https://img.shields.io/badge/CSS3-171717?style=for-the-badge&logo=css&logoColor=C9A24D)
+![CSS](https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css&logoColor=C9A24D)
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-171717?style=for-the-badge&logo=javascript&logoColor=C9A24D)
 ![Git](https://img.shields.io/badge/GIT-171717?style=for-the-badge&logo=git&logoColor=C9A24D)
 ![GitHub](https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=C9A24D)
-
----
-
-## Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abdelrahman-Shebl17&show_icons=true&hide_border=false&border_color=2A2A2A&bg_color=0D1117&title_color=C9A24D&text_color=F5F5F5&icon_color=C9A24D" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrahman-Shebl17&layout=compact&hide_border=false&border_color=2A2A2A&bg_color=0D1117&title_color=C9A24D&text_color=F5F5F5" />
-
-</p>
 
 ---
 
@@ -191,23 +207,23 @@ A real-estate landing page designed to make listings easier to scan, build trust
 <p align="center">
 
 <a href="https://shebl-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-171717?style=for-the-badge&logoColor=C9A24D" />
+  <img src="https://img.shields.io/badge/🌐-PORTFOLIO-171717?style=for-the-badge&labelColor=8E7135" />
 </a>
 
 <a href="https://www.linkedin.com/in/abdelrahmanshebl17/">
-  <img src="https://img.shields.io/badge/LINKEDIN-171717?style=for-the-badge&logo=linkedin&logoColor=C9A24D" />
+  <img src="https://img.shields.io/badge/in-LINKEDIN-171717?style=for-the-badge&labelColor=8E7135" />
 </a>
 
 <a href="https://www.behance.net/abdelrahmanshebl17">
-  <img src="https://img.shields.io/badge/BEHANCE-171717?style=for-the-badge&logo=behance&logoColor=C9A24D" />
+  <img src="https://img.shields.io/badge/Bē-BEHANCE-171717?style=for-the-badge&labelColor=8E7135" />
 </a>
 
 <a href="mailto:abdelrahmanshebl17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-171717?style=for-the-badge&logo=gmail&logoColor=C9A24D" />
+  <img src="https://img.shields.io/badge/@-EMAIL-171717?style=for-the-badge&labelColor=8E7135" />
 </a>
 
 <a href="https://github.com/Abdelrahman-Shebl17">
-  <img src="https://img.shields.io/badge/GITHUB-171717?style=for-the-badge&logo=github&logoColor=C9A24D" />
+  <img src="https://img.shields.io/badge/GH-GITHUB-171717?style=for-the-badge&labelColor=8E7135" />
 </a>
 
 </p>
